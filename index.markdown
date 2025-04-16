@@ -12,7 +12,7 @@ Je suis actuellement **Attachée Temporaire d'Enseignement et de Recherche (ATER
 
 Avant de rejoindre la France, j'ai exercé en tant que **Maître de Conférences (MCF) en Algérie**, de 2018 à 2022, à l'[Université des Sciences et de la Technologie Houari Boumediene](https://www.usthb.dz/), puis, de 2022 à 2023, à l'[Université Mouloud Mammeri de Tizi Ouzou](http://www.ummto.dz). Ces expériences m'ont permis de développer une solide expertise en enseignement et en recherche.
 
-J'ai effectué ma thèse à l'**Université des Sciences et Technologie Houari Boumediene**, sous la direction de **Zohra GUESSOUM**. Le manuscrit de ma thèse est disponible [ici](assets/documents/thèse.pdf), et les slides de ma présentation [là](assets/documents/exposé.pdf).
+J'ai effectué ma thèse à l'**Université des Sciences et Technologie Houari Boumediene**, sous la direction de **Zohra GUESSOUM**. Le manuscrit de ma thèse est disponible [ici](assets/documents/Thèse.pdf), et les slides de ma présentation [là](assets/documents/exposé.pdf).
 
 <br>
 
@@ -95,7 +95,7 @@ J'ai soutenu ma thèse le **09 mai 2017** devant le jury composé de :
    **&** Ali LAKSACI (professeur à l’Université Djillali Liabés de Sidi Bel Abbés, Algérie)
 - **Invitée :** Ourida SADKI (professeur à l’université des Sciences et de la Technologie Houari Boumediene, Algérie)
 
-📄 [Manuscrit de thèse](assets/documents/thèse.pdf)  
+📄 [Manuscrit de thèse](assets/documents/Thèse.pdf)  
 📊 [Slides de la soutenance](assets/documents/exposé.pdf)
 
 <br>
