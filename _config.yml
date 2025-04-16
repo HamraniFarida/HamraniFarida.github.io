@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "FARIDA HAMRANI - Docteure en Mathématiques"
+email: "farida.h1989@gmail.com"
+description: >-
+  Bienvenue sur le site personnel de FARIDA HAMRANI, docteure en mathématiques.
+  Attachée Temporaire d'Enseignement et de Recherche à l'INSA de Toulouse,
+  passionnée par la recherche en statistique non paramétrique et l'enseignement.
+baseurl: "" # Laisse vide en local ou mets le sous-dossier si le site est hébergé dans un sous-chemin
+url: "" # Laisse vide pour du local, remplis-le avec l'URL complète lorsque le site sera en ligne, par exemple "https://monsite.fr"
+twitter_username: " " # modifie avec ton pseudo Twitter si tu en as un, sinon tu peux le supprimer ou laisser vide
+github_username:  " "  # idem pour GitHub
+
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
